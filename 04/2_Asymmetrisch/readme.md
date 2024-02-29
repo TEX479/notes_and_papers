@@ -59,3 +59,11 @@ Das RSA Verfahren kann verwendet werden, um unter Verwendung eines öffentlichen
 ### c)
 p, q = 17, 233 (gelöst durch brute-force mittels <!-- PROGRAMM VON HANDY EINFÜGEN-->)\
 *φ* (N) = 16*232 = 3712\
+### d)
+Für das modulare Inverse `n` gillt:\
+(e \* n) % *φ* (N) == 1
+Da es keine explizite berechnung von `n` gibt, wird es mittels Bruteforce in [4d.py](4d.py) gelöst.\
+-> n = 47
+### e)
+gelöst mit [4e.py](4e.py)\
+Lösung: `2515#3380#3380#1239`
