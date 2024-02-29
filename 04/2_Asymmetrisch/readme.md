@@ -1,4 +1,4 @@
-# Lösung der [Aufgaben](../Asymmetrisch_Aufgaben.pdf)
+# Lösung der [asymetrischen Aufgaben](../Asymmetrisch_Aufgaben.pdf)
 ## 1.
 Verschlüsselungsverfahren unterscheiden sich unteranderem in symmetrische und asymmetrische Verfahren. Der unterschied besteht darin, dass bei symmetrischen Verfahren ein einziger Schlüssel zum Ver- & Entschlüsseln verwendet wird. Dafür muss also der Schlüssel komplett übertragen werden. Bei asymmetrischen Verschlüsselungsverfahren ist das anders. Dort kann der Text mit einem Schlüssel ver-, und mit einem anderen entschlüsselt werden. Dabei gibt es in der Regel einen geheimen und einen öffentlichen Schlüssel.
 ## 2.
